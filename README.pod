@@ -1,5 +1,10 @@
 =head1 About
 
-My collection of solved Project Euler problems.
+This is my personal collection of solved
+L<Project Euler|http://projecteuler.net/> problems. I started working on these
+problems as a way to learn Perl. They're not the most efficient or beautiful
+solutions, but they did the trick.
+
+=for HTML <p><img src="http://projecteuler.net/profile/srollyson.png" alt="Profile Image"/></p>
 
 =cut
