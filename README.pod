@@ -3,8 +3,15 @@
 This is my personal collection of solved
 L<Project Euler|http://projecteuler.net/> problems. I started working on these
 problems as a way to learn Perl. They're not the most efficient or beautiful
-solutions, but they did the trick.
+solutions, but they did teach me a thing or two about
+L<map|http://perldoc.perl.org/functions/map.html>,
+L<grep|http://perldoc.perl.org/functions/grep.html>,
+L<List::Util|http://perldoc.perl.org/List/Util.html>,
+and the
+L<Sieve of Eratosthenes|https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes>.
 
-=for HTML <p><img src="http://projecteuler.net/profile/srollyson.png" alt="Profile Image"/></p>
+=head1 Profile
+
+=for HTML <p><img src="http://projecteuler.net/profile/srollyson.png"/></p>
 
 =cut
