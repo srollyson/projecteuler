@@ -1,0 +1,5 @@
+=head1 About
+
+My collection of solved Project Euler problems.
+
+=cut
