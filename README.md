@@ -10,7 +10,4 @@ two about [map](http://perldoc.perl.org/functions/map.html),
 and the
 [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes).
 
-Profile Image
--------------
-
-![Project Euler profile](http://projecteuler.net/profile/srollyson.png)
+![Project Euler profile image](http://projecteuler.net/profile/srollyson.png)
